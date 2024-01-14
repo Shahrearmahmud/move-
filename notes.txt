@@ -1,0 +1,5 @@
+1.npm run dev(frontend)
+2.npx convex dev (backend)
+
+
+new learn : convex(database) ,vercel(deployment) , clerk(authentication),Edgestore(store Picture)
